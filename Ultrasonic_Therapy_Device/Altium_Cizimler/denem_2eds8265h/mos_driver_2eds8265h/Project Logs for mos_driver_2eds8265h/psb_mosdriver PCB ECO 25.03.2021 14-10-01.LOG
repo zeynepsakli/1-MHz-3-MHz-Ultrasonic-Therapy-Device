@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND2 Pin=J2-1
+Removed Pin From Net: NetName=48V Pin=J2-2
+Added Pin To Net: NetName=48V Pin=J2-1
+Added Pin To Net: NetName=GND2 Pin=J2-2
+Added Room: Name=sematik_mos

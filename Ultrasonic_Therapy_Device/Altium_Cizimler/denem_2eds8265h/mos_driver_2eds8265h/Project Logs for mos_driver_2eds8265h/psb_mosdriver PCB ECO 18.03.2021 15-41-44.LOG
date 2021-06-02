@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AUX12V Pin=D1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-2
+Removed Member From Class: ClassName=sematik_mos Member=D1
+Added Component: Designator=D?(DO-35)
+Added Component: Designator=U?(DPAK)
+Added Pin To Net: NetName=AUX12V Pin=D?-1
+Added Pin To Net: NetName=NetC1_2 Pin=D?-2
+Added Member To Class: ClassName=sematik_mos Member=Component D? Diode 1N4448
+Added Member To Class: ClassName=sematik_mos Member=Component U? IRLR7843
+Added Room: Name=sematik_mos

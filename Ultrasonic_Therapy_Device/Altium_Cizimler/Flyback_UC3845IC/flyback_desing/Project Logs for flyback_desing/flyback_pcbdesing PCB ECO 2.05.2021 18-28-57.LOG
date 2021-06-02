@@ -1,0 +1,28 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component Footprint: Designator=C1 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C3 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C4 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C5 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C6 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C7 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C8 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C10 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Footprint: Designator=C11 Old Footprint=RB7.6-15 New Footprint=Cap1
+Change Component Comment : Designator=C7 Old Comment=35u New Comment=Cap
+Change Component Comment : Designator=C1 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C3 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C4 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C5 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C6 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C8 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C10 Old Comment=100u New Comment=Cap
+Change Component Comment : Designator=C11 Old Comment=100u New Comment=Cap
+Added Room: Name=flyback_sematik

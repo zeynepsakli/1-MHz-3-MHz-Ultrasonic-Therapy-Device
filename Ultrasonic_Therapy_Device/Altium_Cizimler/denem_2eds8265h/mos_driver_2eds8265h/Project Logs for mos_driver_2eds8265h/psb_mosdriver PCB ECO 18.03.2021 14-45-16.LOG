@@ -1,0 +1,79 @@
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=C5(RAD-0.3)
+Added Component: Designator=C6(RAD-0.3)
+Added Component: Designator=C7(RAD-0.3)
+Added Component: Designator=D1(DO-201AD)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=Q1(tph3206_powmos)
+Added Component: Designator=Q2(tph3206_powmos)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=U1(2eds8265h_pcb)
+Added Component: Designator=U2(DIP794W45P254L1969H508Q14)
+Added Pin To Net: NetName=12V Pin=C4-2
+Added Pin To Net: NetName=12V Pin=C5-2
+Added Pin To Net: NetName=12V Pin=P3-2
+Added Pin To Net: NetName=12V Pin=R2-1
+Added Pin To Net: NetName=12V Pin=U2-14
+Added Net: Name=12V
+Added Pin To Net: NetName=56V Pin=C6-2
+Added Pin To Net: NetName=56V Pin=C7-2
+Added Pin To Net: NetName=56V Pin=P3-1
+Added Pin To Net: NetName=56V Pin=Q1-1
+Added Net: Name=56V
+Added Pin To Net: NetName=AUX12V Pin=C3-2
+Added Pin To Net: NetName=AUX12V Pin=D1-1
+Added Pin To Net: NetName=AUX12V Pin=U1-11
+Added Net: Name=AUX12V
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=INA Pin=P3-4
+Added Pin To Net: NetName=INA Pin=U1-1
+Added Pin To Net: NetName=INA Pin=U2-1
+Added Net: Name=INA
+Added Pin To Net: NetName=INB Pin=P3-3
+Added Pin To Net: NetName=INB Pin=U1-2
+Added Pin To Net: NetName=INB Pin=U2-2
+Added Net: Name=INB
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=P1-2
+Added Pin To Net: NetName=NetC1_1 Pin=P2-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-14
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R3-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-15
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-10
+Added Net: Name=NetR3_1
+Added Class: Name=sematik_mos
+Added Room: Name=sematik_mos

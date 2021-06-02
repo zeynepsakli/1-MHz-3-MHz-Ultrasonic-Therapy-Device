@@ -1,0 +1,6 @@
+Added Component: Designator=aux12(1760490000)
+Added Component: Designator=HS?(HSINK_HSS-B20-0635H)
+Added Pin To Net: NetName=GND Pin=aux12-1
+Added Pin To Net: NetName=AUX12V Pin=aux12-2
+Added Member To Class: ClassName=sematik_mos Member=Component aux12 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component HS? HSS-B20-0635H

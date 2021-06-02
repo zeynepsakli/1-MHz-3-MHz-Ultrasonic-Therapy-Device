@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=56V Pin=Q1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=Q1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=Q1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=MOSFET-N New DesignItemId=mosfetss
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=MOSFET-N New DesignItemId=mosfetss
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=tph3206_powmos
+Change Component Footprint: Designator=Q2 Old Footprint=E3 New Footprint=tph3206_powmos
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-N New Comment=mosfetss
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-N New Comment=mosfetss
+Added Pin To Net: NetName=NetP1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-2
+Added Pin To Net: NetName=56V Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=sematik_mos Member=Component Q1 mosfetss
+Added Member To Class: ClassName=sematik_mos Member=Component Q2 mosfetss
+Added Room: Name=sematik_mos

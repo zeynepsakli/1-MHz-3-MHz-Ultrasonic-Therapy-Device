@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=P1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=56V Pin=P3-1
+Removed Pin From Net: NetName=12V Pin=P3-2
+Removed Pin From Net: NetName=INB Pin=P3-3
+Removed Pin From Net: NetName=INA Pin=P3-4
+Removed Member From Class: ClassName=sematik_mos Member=P1
+Removed Member From Class: ClassName=sematik_mos Member=P2
+Removed Member From Class: ClassName=sematik_mos Member=P3
+Added Component: Designator=J1(1760490000)
+Added Component: Designator=J2(1760490000)
+Added Component: Designator=J4(1760490000)
+Added Component: Designator=J5(1760490000)
+Added Component: Designator=J(1760490000)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=56V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=INA Pin=J2-2
+Added Pin To Net: NetName=NetC1_1 Pin=J4-2
+Added Pin To Net: NetName=NetC1_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=12V Pin=J-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=Q1-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R1-2
+Added Net: Name=NetJ4_1
+Added Member To Class: ClassName=sematik_mos Member=Component J1 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J2 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J4 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J5 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J 1760510000
+Added Room: Name=sematik_mos

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=aux2-1
+Removed Pin From Net: NetName=AUX12V+ Pin=aux2-2
+Added Component: Designator=HS?(HSINK_HSS-B20-0635H)
+Added Pin To Net: NetName=AUX12V+ Pin=aux2-1
+Added Pin To Net: NetName=GND Pin=aux2-2
+Added Member To Class: ClassName=sematik_mos Member=Component HS? HSS-B20-0635H

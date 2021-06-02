@@ -1,0 +1,7 @@
+14:35:53 **** Incremental Build of configuration Debug for project PWM_50Hz_Deneme ****
+Info: Internal Builder is used for build
+arm-atollic-eabi-objcopy.exe -O ihex PWM_50Hz_Deneme.elf PWM_50Hz_Deneme.hex 
+Info: Parallel threads used: 0
+
+14:35:53 Build Finished (took 332ms)
+

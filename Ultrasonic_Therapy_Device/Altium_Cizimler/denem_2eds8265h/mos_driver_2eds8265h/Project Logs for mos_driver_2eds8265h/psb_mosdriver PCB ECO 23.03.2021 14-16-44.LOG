@@ -1,0 +1,92 @@
+Added Component: Designator=aux1(1760490000)
+Added Component: Designator=aux2(1760490000)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=J1(1760490000)
+Added Component: Designator=J2(1760490000)
+Added Component: Designator=J3(1760490000)
+Added Component: Designator=Q1(tph3206_powmos)
+Added Component: Designator=Q2(tph3206_powmos)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=U1(SOT95P280X145-5N)
+Added Component: Designator=U2(2eds8265h_pcb)
+Added Pin To Net: NetName=GND Pin=aux1-1
+Added Pin To Net: NetName=AUX12V Pin=aux1-2
+Added Pin To Net: NetName=GND Pin=aux2-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=AUX12V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=INA Pin=J3-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=INA Pin=U1-1
+Added Pin To Net: NetName=INA Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=INB Pin=U1-4
+Added Pin To Net: NetName=INA Pin=U2-1
+Added Pin To Net: NetName=INB Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetR4_2 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=AUX12V Pin=U2-16
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=J1-2
+Added Pin To Net: NetName=3.3V Pin=U1-5
+Added Pin To Net: NetName=3.3V Pin=U2-3
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Net: Name=3.3V
+Added Pin To Net: NetName=48V Pin=C2-2
+Added Pin To Net: NetName=48V Pin=J2-2
+Added Pin To Net: NetName=48V Pin=R1-2
+Added Net: Name=48V
+Added Pin To Net: NetName=AUX12V+ Pin=aux2-2
+Added Pin To Net: NetName=AUX12V+ Pin=C3-2
+Added Pin To Net: NetName=AUX12V+ Pin=U2-11
+Added Net: Name=AUX12V+
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-14
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-15
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-10
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=sematik_mos Member=Component aux1 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component aux2 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component C1 Cap
+Added Member To Class: ClassName=sematik_mos Member=Component C2 470uF
+Added Member To Class: ClassName=sematik_mos Member=Component C3 1uF
+Added Member To Class: ClassName=sematik_mos Member=Component C4 1uF
+Added Member To Class: ClassName=sematik_mos Member=Component J1 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J2 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component J3 1760510000
+Added Member To Class: ClassName=sematik_mos Member=Component Q1 mosfetss
+Added Member To Class: ClassName=sematik_mos Member=Component Q2 mosfetss
+Added Member To Class: ClassName=sematik_mos Member=Component R1 Res1
+Added Member To Class: ClassName=sematik_mos Member=Component R2 Res1
+Added Member To Class: ClassName=sematik_mos Member=Component R3 Res1
+Added Member To Class: ClassName=sematik_mos Member=Component R4 Res1
+Added Member To Class: ClassName=sematik_mos Member=Component U1 SN74LVC1G00DBVR
+Added Member To Class: ClassName=sematik_mos Member=Component U2 surface mount
+Added Room: Name=sematik_mos
